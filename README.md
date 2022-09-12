@@ -1,5 +1,5 @@
 # crud-java
-Rest api
+Rest api for CRUD Iinfinite mobile project
 
 How to run app:
 
