@@ -17,6 +17,7 @@ import pl.infinitetech.crudjava.client.service.UserService;
 import java.util.List;
 
 @RestController
+@CrossOrigin()
 public class UserController {
 
     @Autowired
