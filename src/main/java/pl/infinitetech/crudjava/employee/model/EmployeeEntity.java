@@ -21,9 +21,6 @@ public class EmployeeEntity {
     @Column(name="email")
     private String email;
 
-    @Column(name="phone_number")
-    private String phone_number;
-
     @Column(name="password")
     private String password;
 
