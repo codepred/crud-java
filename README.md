@@ -12,7 +12,7 @@ Rest api for CRUD Infinite-Tech Project
 
 Backend url:
 
-145.239.80.63
+localhost:8080/
 
 Postman:
 
